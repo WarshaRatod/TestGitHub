@@ -1,0 +1,15 @@
+Git hub steps 
+1.clone that directory from online using
+$ git clone https://----
+
+Add new file using 
+$ touc filename.txt
+
+see file 
+$ ls
+
+open to write something into that file using 
+$ vim filename.txt
+
+Commit that file using 
+$ commit 
